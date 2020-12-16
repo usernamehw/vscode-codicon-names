@@ -1,0 +1,57 @@
+{
+	"name": "codicon-names",
+	"displayName": "Codicon names",
+	"description": "Insert codicon as text.",
+	"version": "0.0.1",
+	"publisher": "usernamehw",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"extensionKind": [
+		"ui"
+	],
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"codicon"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/usernamehw/vscode-codicon-names"
+	},
+	"activationEvents": [
+		"onCommand:codiconNames.insert"
+	],
+	"main": "./dist/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "codiconNames.insert",
+				"title": "Insert",
+				"category": "Codicon Names"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "webpack --mode production --colors",
+		"compile": "webpack --mode development",
+		"watch": "webpack --mode development --watch --display=minimal"
+	},
+	"devDependencies": {
+		"@types/lodash": "^4.14.165",
+		"@types/node": "^12.12.62",
+		"@types/vscode": "^1.47.0",
+		"@typescript-eslint/eslint-plugin": "^4.10.0",
+		"@typescript-eslint/parser": "^4.10.0",
+		"csv-parser": "^3.0.0",
+		"eslint": "^7.15.0",
+		"eslint-plugin-no-autofix": "1.0.2",
+		"friendly-errors-webpack-plugin": "^1.7.0",
+		"ts-loader": "^8.0.12",
+		"typescript": "^4.1.3",
+		"webpack": "^4.44.2",
+		"webpack-cli": "^3.3.12"
+	}
+}
