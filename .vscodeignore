@@ -15,6 +15,7 @@ package-lock.json
 *.todo
 misc.md
 
+img
 img/demo.png
 
 node_modules
