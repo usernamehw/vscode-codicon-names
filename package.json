@@ -39,7 +39,6 @@
 		"watch": "webpack --mode development --watch --stats minimal"
 	},
 	"devDependencies": {
-		"@types/lodash": "^4.14.167",
 		"@types/node": "^12.19.12",
 		"@types/vscode": "^1.52.0",
 		"@typescript-eslint/eslint-plugin": "^4.12.0",
