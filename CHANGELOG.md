@@ -1,6 +1,10 @@
+## 0.0.4 `15 Apr 2021`
+
+- ✨ Update icons **1.55.0**
+
 ## 0.0.3 `09 Mar 2021`
 
-- ✨ Update icons
+- ✨ Update icons **1.54.0**
 
 ## 0.0.2 `09 Jan 2021`
 
