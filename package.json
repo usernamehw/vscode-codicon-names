@@ -2,7 +2,7 @@
 	"name": "codicon-names",
 	"displayName": "Codicon names",
 	"description": "Insert codicon id as text.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "usernamehw",
 	"license": "MIT",
 	"engines": {
