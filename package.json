@@ -33,7 +33,16 @@
 				"title": "Insert",
 				"category": "Codicon Names"
 			}
-		]
+		],
+		"configuration": {
+			"properties": {
+				"codiconNames.fetchNewest": {
+					"type": "boolean",
+					"description": "Fetch latest icon names from [vscode-codicons](https://raw.githubusercontent.com/microsoft/vscode-codicons) repository.",
+					"default": true
+				}
+			}
+		}
 	},
 	"scripts": {
 		"vscode:prepublish": "webpack --mode production --color",
