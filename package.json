@@ -6,7 +6,7 @@
 	"publisher": "usernamehw",
 	"license": "MIT",
 	"engines": {
-		"vscode": "^1.55.0"
+		"vscode": "^1.56.0"
 	},
 	"extensionKind": [
 		"ui"
@@ -50,16 +50,16 @@
 		"generate": "node ./scripts/getIconList.js"
 	},
 	"devDependencies": {
-		"@types/node": "^12.20.11",
-		"@types/vscode": "^1.55.0",
-		"@typescript-eslint/eslint-plugin": "^4.22.0",
-		"@typescript-eslint/parser": "^4.22.0",
+		"@types/node": "^12.20.12",
+		"@types/vscode": "^1.56.0",
+		"@typescript-eslint/eslint-plugin": "^4.22.1",
+		"@typescript-eslint/parser": "^4.22.1",
 		"eslint": "^7.25.0",
 		"eslint-plugin-no-autofix": "1.1.2",
 		"friendly-errors-webpack-plugin": "^1.7.0",
-		"ts-loader": "^9.1.1",
+		"ts-loader": "^9.1.2",
 		"typescript": "^4.2.4",
 		"webpack": "^5.36.2",
-		"webpack-cli": "^4.6.0"
+		"webpack-cli": "^4.7.0"
 	}
 }
