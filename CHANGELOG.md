@@ -1,3 +1,8 @@
+## 0.0.5 `07 May 2021`
+
+- ✨ Fetch latest icons by default
+- ✨ Update icons **1.56.0**
+
 ## 0.0.4 `15 Apr 2021`
 
 - ✨ Update icons **1.55.0**
