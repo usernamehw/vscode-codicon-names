@@ -38,7 +38,7 @@
 			"properties": {
 				"codiconNames.fetchNewest": {
 					"type": "boolean",
-					"description": "Fetch latest icon names from [vscode-codicons](https://raw.githubusercontent.com/microsoft/vscode-codicons) repository.",
+					"markdownDescription": "Fetch latest icon names from [vscode-codicons](https://raw.githubusercontent.com/microsoft/vscode-codicons) repository.",
 					"default": true
 				}
 			}
