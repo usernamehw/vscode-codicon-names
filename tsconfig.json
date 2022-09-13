@@ -3,7 +3,6 @@
 		"module": "commonjs",
 		"target": "ES2019",
 		"outDir": "out",
-		"suppressImplicitAnyIndexErrors": false,
 		"lib": [
 			"ES2019"
 		],
@@ -17,7 +16,6 @@
 		"rootDir": "src",
 		"strict": true,
 		"esModuleInterop": true,
-		"skipLibCheck": true,
 		"forceConsistentCasingInFileNames": true,
 	},
 	"include": [
