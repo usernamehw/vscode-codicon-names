@@ -2,6 +2,10 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/usernamehw.codicon-names)](https://marketplace.visualstudio.com/items?itemName=usernamehw.codicon-names)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/usernamehw.codicon-names)](https://marketplace.visualstudio.com/items?itemName=usernamehw.codicon-names)
 
+# ⚠ Deprecated In favor of [Commands](https://marketplace.visualstudio.com/items?itemName=usernamehw.commands) ⚠
+
+: Use `commands.suggestCodicons` **Commands: Suggest (autocomplete) codicons**
+
 ## Only useful for extension authors.
 
 Codicons are icons that can be used in Markdown labels in hovers, in the StatusBarItem text, in Views, and QuickPickItem label API.

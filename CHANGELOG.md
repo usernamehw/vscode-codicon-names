@@ -1,3 +1,7 @@
+## 0.0.8 `17 Mar 2023`
+
+- 🔨 Deprecate extension for [Commands](https://marketplace.visualstudio.com/items?itemName=usernamehw.commands)
+
 ## 0.0.7 `13 Sep 2022`
 
 - ✨ Update icons **1.71.0**
@@ -25,7 +29,7 @@
 
 ## 0.0.1 `16 Dec 2020`
 
-- Initial release
+- 🔨 Initial release
 
 
 
